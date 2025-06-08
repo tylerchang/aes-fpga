@@ -1,8 +1,9 @@
 # Sonic Security: AES Encryption/Decryption Accelerator on Intel De1-SoC FPGA
 
+## Official Project Design and Report
+[View (PDF)](./report.pdf)
+
 ## Project Components
-
-
 
 ### Directory Guide
 - `hw`: SV module implementations of AES
